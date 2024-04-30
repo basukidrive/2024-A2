@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="4 Proses Bisnis Collaboration"
+    name="4 Proses Bisnis Cooperation"
     id="id-766e3b3045724677b71564d91cd7e734">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -347,5 +347,17 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-983bb4661ede4b038a5f35bd8519cf0b.xml#id-983bb4661ede4b038a5f35bd8519cf0b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-af03ffd2af01407793fd6a72947810c9">
+    <bounds
+        x="864"
+        y="228"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-effbfc9755e344b8b57998b0c05b9241.xml#id-effbfc9755e344b8b57998b0c05b9241"/>
   </children>
 </archimate:ArchimateDiagramModel>
