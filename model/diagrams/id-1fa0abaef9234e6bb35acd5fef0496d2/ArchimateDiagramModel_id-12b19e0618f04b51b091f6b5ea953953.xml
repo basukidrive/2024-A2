@@ -6,11 +6,20 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7b1dc917ba1c41148ef2a4d6db11f027">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-bc4198c451464d17b58f2e3e2eb7aef1"
+        source="id-7b1dc917ba1c41148ef2a4d6db11f027"
+        target="id-745f86cd717e4b39b406ed712ba8e92f">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-dab98bf35b1140f3a754b9bd64aa2c74.xml#id-dab98bf35b1140f3a754b9bd64aa2c74"/>
+    </sourceConnections>
     <bounds
-        x="276"
+        x="336"
         y="96"
-        width="373"
-        height="193"/>
+        width="313"
+        height="49"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-a7a479b44a184e138c414a258157d339.xml#id-a7a479b44a184e138c414a258157d339"/>
@@ -19,12 +28,37 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e769e864a9ce48d1a26e5ca001f24f5a">
     <bounds
-        x="198"
-        y="347"
-        width="120"
-        height="55"/>
+        x="192"
+        y="204"
+        width="157"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Stakeholder"
         href="Stakeholder_id-529edaeb1e484222bac085750fdc1368.xml#id-529edaeb1e484222bac085750fdc1368"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-745f86cd717e4b39b406ed712ba8e92f"
+      targetConnections="id-bc4198c451464d17b58f2e3e2eb7aef1">
+    <bounds
+        x="417"
+        y="204"
+        width="151"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-25ffab9ca6384b6dbf9a5eafc4452912.xml#id-25ffab9ca6384b6dbf9a5eafc4452912"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4906d0364b7543a0ab1f21a667a1a53f">
+    <bounds
+        x="636"
+        y="204"
+        width="154"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-a6b4520c6a3643b59660024de308d561.xml#id-a6b4520c6a3643b59660024de308d561"/>
   </children>
 </archimate:ArchimateDiagramModel>
