@@ -900,6 +900,15 @@
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-9fdd787ace81403f965bbadcecc0ef07.xml#id-9fdd787ace81403f965bbadcecc0ef07"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1f04eeec70fc46918ffe00eb3ed26797"
+        source="id-82889a382d9e438dade3a03bb96093ea"
+        target="id-d2998cf5d39548b585f47c70b886fdc0">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-a25f50f496424b3bbcfe5f3d4c3275de.xml#id-a25f50f496424b3bbcfe5f3d4c3275de"/>
+    </sourceConnections>
     <bounds
         x="36"
         y="912"
@@ -1111,7 +1120,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9cc59e2f07bf4686aa6b34262e6764dc">
+      id="id-9cc59e2f07bf4686aa6b34262e6764dc"
+      targetConnections="id-7d855144c40148f8a0aedd5cd3661942">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c20a4e252db648dbb2faf699ffa5ccd5"
@@ -1255,7 +1265,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d2998cf5d39548b585f47c70b886fdc0">
+      id="id-d2998cf5d39548b585f47c70b886fdc0"
+      targetConnections="id-1f04eeec70fc46918ffe00eb3ed26797">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-62130789e8ba400aa26cfd0738133682"
@@ -1282,6 +1293,15 @@
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-fc05e467f7784243bee931a5f77f891e.xml#id-fc05e467f7784243bee931a5f77f891e"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7d855144c40148f8a0aedd5cd3661942"
+        source="id-d2998cf5d39548b585f47c70b886fdc0"
+        target="id-9cc59e2f07bf4686aa6b34262e6764dc">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-b4262d27a59140c7806f2f97966a99fe.xml#id-b4262d27a59140c7806f2f97966a99fe"/>
     </sourceConnections>
     <bounds
         x="48"
