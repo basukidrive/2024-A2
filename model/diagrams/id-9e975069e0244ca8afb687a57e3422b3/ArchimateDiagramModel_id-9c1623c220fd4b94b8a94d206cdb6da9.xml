@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Peraturan dan Kebijakan"
+    name="Peraturan"
     id="id-9c1623c220fd4b94b8a94d206cdb6da9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -59,18 +59,5 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-e3f32df4173746eb8db379d4947262e4.xml#id-e3f32df4173746eb8db379d4947262e4"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4b1a836ca1b941dd96c115b07453c5f3"
-      textAlignment="1">
-    <bounds
-        x="312"
-        y="36"
-        width="400"
-        height="229"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-df28b414372d4704874599a09128200b.xml#id-df28b414372d4704874599a09128200b"/>
   </children>
 </archimate:ArchimateDiagramModel>
