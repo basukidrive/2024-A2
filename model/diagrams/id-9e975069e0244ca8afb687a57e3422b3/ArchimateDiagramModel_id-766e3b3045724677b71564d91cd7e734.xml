@@ -516,7 +516,7 @@
           href="CompositionRelationship_id-cf30fd2e34294850ade12bafa4d6755f.xml#id-cf30fd2e34294850ade12bafa4d6755f"/>
     </sourceConnections>
     <bounds
-        x="36"
+        x="24"
         y="420"
         width="1008"
         height="468"/>
@@ -1285,7 +1285,7 @@
           x="121"
           y="12"
           width="120"
-          height="60"/>
+          height="72"/>
       <archimateElement
           xsi:type="archimate:BusinessEvent"
           href="BusinessEvent_id-572147ebeb5148d7aa79b3226e0b68a9.xml#id-572147ebeb5148d7aa79b3226e0b68a9"/>
