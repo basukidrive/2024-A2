@@ -271,7 +271,7 @@
         id="id-ec4b28f27ad349d79f6702a856f341f6"
         targetConnections="id-3c334a7eacfd4ce790587853bd4acf82">
       <bounds
-          x="12"
+          x="24"
           y="36"
           width="145"
           height="44"/>
@@ -284,10 +284,10 @@
         id="id-b10bb84c033d4df993a2942efcdc7b00"
         targetConnections="id-4c058b69c0214c33ab4e02db723196fa">
       <bounds
-          x="180"
-          y="39"
+          x="192"
+          y="36"
           width="169"
-          height="41"/>
+          height="44"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-6b461057ad9d44cb84ca15ff65bc8d30.xml#id-6b461057ad9d44cb84ca15ff65bc8d30"/>
