@@ -67,8 +67,20 @@
     <bounds
         x="312"
         y="36"
-        width="400"
+        width="241"
         height="229"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-71446646d8684bdcb69f5076cf8f6e42">
+      <bounds
+          x="12"
+          y="24"
+          width="218"
+          height="121"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-777fcff4fe074341b9746c3ee637affe.xml#id-777fcff4fe074341b9746c3ee637affe"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-df28b414372d4704874599a09128200b.xml#id-df28b414372d4704874599a09128200b"/>
