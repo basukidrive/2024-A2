@@ -414,9 +414,9 @@
         id="id-b0afe5346f164de283d66f031c6b1289"
         targetConnections="id-a621df10b9474e55924f06151cc38d3c id-9230b976509f4304b74d419467390d5c">
       <bounds
-          x="444"
+          x="408"
           y="132"
-          width="145"
+          width="121"
           height="73"/>
       <archimateElement
           xsi:type="archimate:Product"
@@ -438,7 +438,7 @@
       <bounds
           x="216"
           y="132"
-          width="181"
+          width="145"
           height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
