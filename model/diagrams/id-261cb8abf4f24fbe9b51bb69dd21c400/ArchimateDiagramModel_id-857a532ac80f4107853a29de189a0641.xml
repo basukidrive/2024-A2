@@ -29,8 +29,8 @@
     <bounds
         x="24"
         y="168"
-        width="433"
-        height="433"/>
+        width="373"
+        height="409"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d10908869d054c06877bc97e4f4159d5"
@@ -72,17 +72,17 @@
             href="AssignmentRelationship_id-11092251499a4eb0bf485db6b6c62cff.xml#id-11092251499a4eb0bf485db6b6c62cff"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="24"
           y="36"
           width="145"
-          height="349"/>
+          height="343"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-84718a129c144ddda8527e32aa484981"
           targetConnections="id-724a2cac35bd4dadac8a180c32e0b216">
         <bounds
             x="12"
-            y="36"
+            y="48"
             width="120"
             height="55"/>
         <archimateElement
@@ -95,7 +95,7 @@
           targetConnections="id-1f7c7608629344a4a6581cd50998666f">
         <bounds
             x="12"
-            y="180"
+            y="192"
             width="120"
             height="55"/>
         <archimateElement
@@ -108,7 +108,7 @@
           targetConnections="id-cf3c546531b64cbeafa4d64d20b39800">
         <bounds
             x="12"
-            y="108"
+            y="120"
             width="120"
             height="55"/>
         <archimateElement
@@ -121,9 +121,9 @@
           targetConnections="id-ccd667b31c714f2f85986fa63ca959aa">
         <bounds
             x="12"
-            y="252"
+            y="264"
             width="120"
-            height="73"/>
+            height="61"/>
         <archimateElement
             xsi:type="archimate:ApplicationFunction"
             href="ApplicationFunction_id-6bc648cffdc540cabf37f404667cf828.xml#id-6bc648cffdc540cabf37f404667cf828"/>
@@ -173,7 +173,7 @@
             href="AssignmentRelationship_id-03f71a147f7b417dbe259369fc1ac8a1.xml#id-03f71a147f7b417dbe259369fc1ac8a1"/>
       </sourceConnections>
       <bounds
-          x="216"
+          x="192"
           y="36"
           width="145"
           height="343"/>
@@ -224,7 +224,7 @@
             x="12"
             y="264"
             width="120"
-            height="73"/>
+            height="61"/>
         <archimateElement
             xsi:type="archimate:ApplicationFunction"
             href="ApplicationFunction_id-9235e931a7944a189cd85c6981d16d0a.xml#id-9235e931a7944a189cd85c6981d16d0a"/>
