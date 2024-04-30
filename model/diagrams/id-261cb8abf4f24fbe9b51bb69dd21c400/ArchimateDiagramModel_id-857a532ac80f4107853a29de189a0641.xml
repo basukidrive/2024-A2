@@ -27,8 +27,8 @@
           href="CompositionRelationship_id-114f31343ea44b6cb4559526eea084c8.xml#id-114f31343ea44b6cb4559526eea084c8"/>
     </sourceConnections>
     <bounds
-        x="192"
-        y="300"
+        x="24"
+        y="168"
         width="433"
         height="433"/>
     <children
@@ -262,10 +262,10 @@
           href="CompositionRelationship_id-b5131c7ebec94305aa8cc8bcdb642d77.xml#id-b5131c7ebec94305aa8cc8bcdb642d77"/>
     </sourceConnections>
     <bounds
-        x="180"
-        y="36"
-        width="445"
-        height="169"/>
+        x="24"
+        y="24"
+        width="385"
+        height="109"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ec4b28f27ad349d79f6702a856f341f6"
