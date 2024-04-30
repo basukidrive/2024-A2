@@ -1,4 +1,40 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Motivasi Stakeholder"
-    id="id-12b19e0618f04b51b091f6b5ea953953"/>
+    id="id-12b19e0618f04b51b091f6b5ea953953">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7b1dc917ba1c41148ef2a4d6db11f027">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d6d89fa8263946fba1ea5ba239f9e388"
+        source="id-7b1dc917ba1c41148ef2a4d6db11f027"
+        target="id-bc137e4e01f34e2a84752b0b5a261573">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-da1008ac237f425c984c2f42b0ec6f30.xml#id-da1008ac237f425c984c2f42b0ec6f30"/>
+    </sourceConnections>
+    <bounds
+        x="240"
+        y="204"
+        width="373"
+        height="193"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-bc137e4e01f34e2a84752b0b5a261573"
+        targetConnections="id-d6d89fa8263946fba1ea5ba239f9e388">
+      <bounds
+          x="12"
+          y="60"
+          width="85"
+          height="97"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-196bcfa751da410c90401c443c1feb73.xml#id-196bcfa751da410c90401c443c1feb73"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-a7a479b44a184e138c414a258157d339.xml#id-a7a479b44a184e138c414a258157d339"/>
+  </children>
+</archimate:ArchimateDiagramModel>
