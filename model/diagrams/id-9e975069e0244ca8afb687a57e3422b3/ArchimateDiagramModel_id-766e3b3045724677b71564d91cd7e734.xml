@@ -85,7 +85,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0d71924c9f184a2487ff9c65dc93caea"
-      targetConnections="id-ff5a6f8b8c6c4e6daa6d60270e362477 id-fafacef6cc3747f9a3c6987b0b5c15dd id-6eaa3a64f852464fb70a3752c139c021 id-067b106e8c0245ed865788094660ace3">
+      targetConnections="id-ff5a6f8b8c6c4e6daa6d60270e362477 id-fafacef6cc3747f9a3c6987b0b5c15dd id-6eaa3a64f852464fb70a3752c139c021 id-067b106e8c0245ed865788094660ace3 id-e0e1030e48ec4f27b3ce0a05a1e16362">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4d32dc1cc5954874b647b8847e4b4327"
@@ -289,6 +289,16 @@
         id="id-067b106e8c0245ed865788094660ace3"
         source="id-6952f969dca145878828fd6fc392692f"
         target="id-0d71924c9f184a2487ff9c65dc93caea">
+      <bendpoints
+          startX="-6"
+          startY="-51"
+          endX="276"
+          endY="105"/>
+      <bendpoints
+          startX="-258"
+          startY="-51"
+          endX="24"
+          endY="105"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-a585f120e7eb47a3998c718356701050.xml#id-a585f120e7eb47a3998c718356701050"/>
@@ -305,6 +315,30 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8e2329951f2f498ab367e1af82acf713">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e0e1030e48ec4f27b3ce0a05a1e16362"
+        source="id-8e2329951f2f498ab367e1af82acf713"
+        target="id-0d71924c9f184a2487ff9c65dc93caea">
+      <bendpoints
+          startX="-13"
+          startY="-51"
+          endX="132"
+          endY="105"/>
+      <bendpoints
+          startX="-109"
+          startY="-51"
+          endX="36"
+          endY="105"/>
+      <bendpoints
+          startX="-109"
+          startY="-87"
+          endX="36"
+          endY="69"/>
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-ea45a15192694ef2bc027867d5e82546.xml#id-ea45a15192694ef2bc027867d5e82546"/>
+    </sourceConnections>
     <bounds
         x="565"
         y="384"
