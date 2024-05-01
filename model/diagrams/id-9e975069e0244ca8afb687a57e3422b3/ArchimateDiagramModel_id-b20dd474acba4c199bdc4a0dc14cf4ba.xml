@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. Policy &amp; Business Rule"
+    name="1 Policy &amp; Business Rule"
     id="id-b20dd474acba4c199bdc4a0dc14cf4ba">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -35,20 +35,11 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-45292ee463d249c0a9a7dca3c7dada67.xml#id-45292ee463d249c0a9a7dca3c7dada67"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-cb58bb65e0cc43cca0b9b861da399a58"
-        source="id-6945640e77474645b2d141f4c4153ad9"
-        target="id-e19878b3e8614e94b1b30cd96c7e917c">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-498b55b0f95943679219d374ff13a349.xml#id-498b55b0f95943679219d374ff13a349"/>
-    </sourceConnections>
     <bounds
         x="24"
         y="24"
         width="301"
-        height="569"/>
+        height="429"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-cf9c35798b5046eaa9d6467892c9f56e"
@@ -96,22 +87,6 @@
       <archimateElement
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_id-eaa75662347e4b3e818eade96ddc7b7e.xml#id-eaa75662347e4b3e818eade96ddc7b7e"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-e19878b3e8614e94b1b30cd96c7e917c"
-        targetConnections="id-cb58bb65e0cc43cca0b9b861da399a58"
-        textAlignment="1"
-        textPosition="1"
-        type="1">
-      <bounds
-          x="12"
-          y="432"
-          width="241"
-          height="97"/>
-      <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-8b4d094aea3a43ccaa568068a976abea.xml#id-8b4d094aea3a43ccaa568068a976abea"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
