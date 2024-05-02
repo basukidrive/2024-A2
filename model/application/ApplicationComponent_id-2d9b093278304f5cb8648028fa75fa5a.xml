@@ -1,4 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aplikasi (OLTP)"
-    id="id-1d0acfd7252a488db0993f068c88bc89"/>
+    name="Aplikasi ETL DWH"
+    id="id-2d9b093278304f5cb8648028fa75fa5a"/>
