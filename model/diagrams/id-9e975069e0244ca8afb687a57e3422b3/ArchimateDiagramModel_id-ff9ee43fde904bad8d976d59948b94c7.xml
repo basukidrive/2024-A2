@@ -286,8 +286,8 @@
           width="349"
           height="59"/>
       <archimateElement
-          xsi:type="archimate:BusinessProcess"
-          href="BusinessProcess_id-e1e952ad1ad2431c92790bd071675495.xml#id-e1e952ad1ad2431c92790bd071675495"/>
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-75de737ece2144f1875d9e0c8c6661a1.xml#id-75de737ece2144f1875d9e0c8c6661a1"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
