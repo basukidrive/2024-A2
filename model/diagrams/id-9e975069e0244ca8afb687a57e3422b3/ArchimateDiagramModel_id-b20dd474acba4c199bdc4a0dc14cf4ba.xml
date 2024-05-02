@@ -782,7 +782,7 @@
     <bounds
         x="1260"
         y="312"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
