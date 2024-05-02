@@ -17,8 +17,8 @@
           href="FlowRelationship_id-ae7daaa9ff3749e19de3da8a000c1188.xml#id-ae7daaa9ff3749e19de3da8a000c1188"/>
     </sourceConnections>
     <bounds
-        x="382"
-        y="302"
+        x="60"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement
@@ -57,8 +57,8 @@
           href="FlowRelationship_id-ee1d74f89fc142f6a7cfbc868a427824.xml#id-ee1d74f89fc142f6a7cfbc868a427824"/>
     </sourceConnections>
     <bounds
-        x="579"
-        y="301"
+        x="257"
+        y="95"
         width="120"
         height="55"/>
     <archimateElement
@@ -70,8 +70,8 @@
       id="id-ccb8bfbe027f488a831a6ee6554a4980"
       targetConnections="id-efb1f408d07c44278f3db96a002ac1e1">
     <bounds
-        x="766"
-        y="302"
+        x="444"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement
