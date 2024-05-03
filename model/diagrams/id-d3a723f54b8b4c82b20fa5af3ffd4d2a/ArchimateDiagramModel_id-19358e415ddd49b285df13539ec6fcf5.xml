@@ -16,10 +16,10 @@
           href="FlowRelationship_id-d4861c90e33d4a1eb1e860949cf11619.xml#id-d4861c90e33d4a1eb1e860949cf11619"/>
     </sourceConnections>
     <bounds
-        x="504"
+        x="444"
         y="60"
         width="493"
-        height="181"/>
+        height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0c4dd9f975e448569fcc1e97a0af35c0"
@@ -85,8 +85,8 @@
           href="CompositionRelationship_id-c9b6787cc5354df9906f4d5d93baa8dc.xml#id-c9b6787cc5354df9906f4d5d93baa8dc"/>
     </sourceConnections>
     <bounds
-        x="60"
-        y="48"
+        x="90"
+        y="66"
         width="169"
         height="121"/>
     <children
@@ -129,10 +129,10 @@
           href="FlowRelationship_id-bdc64ff2d2304ee19d6e19801e35895c.xml#id-bdc64ff2d2304ee19d6e19801e35895c"/>
     </sourceConnections>
     <bounds
-        x="516"
-        y="312"
+        x="444"
+        y="318"
         width="493"
-        height="313"/>
+        height="157"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5ed45a3bde6840ee9c27c9d4d8f01de4"
@@ -147,18 +147,18 @@
             href="AssociationRelationship_id-6a716dce5c7c437c8a5aebe3d4eddd66.xml#id-6a716dce5c7c437c8a5aebe3d4eddd66"/>
       </sourceConnections>
       <bounds
-          x="168"
-          y="180"
-          width="241"
-          height="73"/>
+          x="48"
+          y="36"
+          width="397"
+          height="85"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0d28fdcc59fb4979a4b122dad1d8f04f"
           targetConnections="id-6f715132eb034221a53b7517b09a5656">
         <bounds
-            x="12"
+            x="48"
             y="24"
-            width="97"
+            width="133"
             height="37"/>
         <archimateElement
             xsi:type="archimate:Node"
@@ -168,9 +168,9 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ccf19df4f1aa44d98ec0f93544271b0a">
         <bounds
-            x="120"
+            x="192"
             y="24"
-            width="109"
+            width="145"
             height="37"/>
         <archimateElement
             xsi:type="archimate:Node"
