@@ -237,7 +237,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-735ec5629d7e4ff1bc3e0049b64d26bc"
-      targetConnections="id-743cd3df5c1745f5b154b599d5b177b3 id-32a0a1694c944ee3ab8444dde1252d23 id-318cb1ff939e4ef3a1ed2cca41be7b72">
+      targetConnections="id-743cd3df5c1745f5b154b599d5b177b3 id-32a0a1694c944ee3ab8444dde1252d23 id-af6668176fc442769949304c38a5dc31">
     <bounds
         x="358"
         y="708"
@@ -325,29 +325,14 @@
       id="id-5459b4b2b46f4f95bb78421b74948c8f">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-318cb1ff939e4ef3a1ed2cca41be7b72"
+        id="id-af6668176fc442769949304c38a5dc31"
         source="id-5459b4b2b46f4f95bb78421b74948c8f"
         target="id-735ec5629d7e4ff1bc3e0049b64d26bc">
       <bendpoints
-          startX="-144"
-          startY="-3"
-          endX="2"
-          endY="93"/>
-      <bendpoints
           startX="-117"
           startY="-3"
           endX="2"
           endY="93"/>
-      <bendpoints
-          startX="-117"
-          startY="-15"
-          endX="2"
-          endY="81"/>
-      <bendpoints
-          startX="-117"
-          startY="-39"
-          endX="2"
-          endY="57"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-b59938144c124f4db051774086d757d1.xml#id-b59938144c124f4db051774086d757d1"/>
