@@ -418,7 +418,7 @@
               href="ServingRelationship_id-d508e98de8184ce5adf6861491bc8254.xml#id-d508e98de8184ce5adf6861491bc8254"/>
         </sourceConnections>
         <bounds
-            x="168"
+            x="132"
             y="48"
             width="109"
             height="37"/>
@@ -449,7 +449,7 @@
               href="ServingRelationship_id-b30c101ea4704816be01e0580cd0d4c8.xml#id-b30c101ea4704816be01e0580cd0d4c8"/>
         </sourceConnections>
         <bounds
-            x="36"
+            x="12"
             y="48"
             width="97"
             height="37"/>
@@ -476,9 +476,9 @@
               href="ServingRelationship_id-06ec330a554d49df82f4a9666265a305.xml#id-06ec330a554d49df82f4a9666265a305"/>
         </sourceConnections>
         <bounds
-            x="300"
+            x="264"
             y="48"
-            width="109"
+            width="133"
             height="37"/>
         <archimateElement
             xsi:type="archimate:SystemSoftware"
