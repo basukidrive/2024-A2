@@ -688,18 +688,6 @@
           xsi:type="archimate:Device"
           href="Device_id-7cee9f27e0f84b85a897fa0441c935d2.xml#id-7cee9f27e0f84b85a897fa0441c935d2"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-193f03400910488983fdfca0ec5dcaf8">
-      <bounds
-          x="13"
-          y="348"
-          width="96"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_id-d8bfe061719f4567be1ab639cbfc2808.xml#id-d8bfe061719f4567be1ab639cbfc2808"/>
-    </children>
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_id-a87e64be2b0942d380d417a00456a7d0.xml#id-a87e64be2b0942d380d417a00456a7d0"/>
