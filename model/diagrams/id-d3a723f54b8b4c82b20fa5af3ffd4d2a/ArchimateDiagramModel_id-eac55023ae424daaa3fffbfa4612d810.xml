@@ -392,18 +392,6 @@
         height="61"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-cc64cc16f4ae434db8470af4152335bf">
-      <bounds
-          x="348"
-          y="18"
-          width="109"
-          height="37"/>
-      <archimateElement
-          xsi:type="archimate:TechnologyInterface"
-          href="TechnologyInterface_id-f4db8ee890134ad6957539e76f85b81e.xml#id-f4db8ee890134ad6957539e76f85b81e"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8b0be6cc7258492493c0f42e0dfc2888">
       <bounds
           x="180"
