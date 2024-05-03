@@ -53,8 +53,8 @@
           href="CompositionRelationship_id-8be4306e94fe47f69aaac63e71b50b66.xml#id-8be4306e94fe47f69aaac63e71b50b66"/>
     </sourceConnections>
     <bounds
-        x="180"
-        y="288"
+        x="168"
+        y="264"
         width="685"
         height="373"/>
     <children
@@ -306,8 +306,8 @@
           href="AssociationRelationship_id-604ad0e5c52f4cbfaa3d336b41b64ff1.xml#id-604ad0e5c52f4cbfaa3d336b41b64ff1"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="36"
+        x="36"
+        y="12"
         width="121"
         height="853"/>
     <children
@@ -327,7 +327,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4db3064fb2994308983a6702e33e09ef"
         targetConnections="id-64662bb1c28b408790db3089f63881f8"
-        fillColor="#80ffff">
+        fillColor="#80ff80">
       <bounds
           x="12"
           y="336"
@@ -371,8 +371,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9d4cd723b6054308867979053d7f94ea">
     <bounds
-        x="180"
-        y="36"
+        x="168"
+        y="12"
         width="685"
         height="61"/>
     <children
@@ -395,8 +395,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b7e7fc3de4a4491dad1150f4e2d61452">
     <bounds
-        x="180"
-        y="108"
+        x="168"
+        y="84"
         width="685"
         height="61"/>
     <children
@@ -443,8 +443,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f1dc058abb6044ba97925b8d02e89c48">
     <bounds
-        x="180"
-        y="180"
+        x="168"
+        y="156"
         width="685"
         height="97"/>
     <children
@@ -475,8 +475,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-bb0e928840414216b600a01f75fa4735"
-        fontColor="#ffffff"
-        fillColor="#ff0000">
+        fontColor="#400040"
+        fillColor="#ff8080">
       <bounds
           x="444"
           y="36"
@@ -494,8 +494,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a9accf19aa32496990d45782af80ebeb">
     <bounds
-        x="180"
-        y="672"
+        x="168"
+        y="648"
         width="685"
         height="73"/>
     <archimateElement
@@ -506,8 +506,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-712dbf70f2e048d9aee9c9202adb5025">
     <bounds
-        x="180"
-        y="756"
+        x="168"
+        y="732"
         width="685"
         height="61"/>
     <children
@@ -542,8 +542,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5b107d7092ee42b7b29d212b3258fd23">
     <bounds
-        x="180"
-        y="828"
+        x="168"
+        y="804"
         width="685"
         height="61"/>
     <children
@@ -590,8 +590,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-96ea8d1ff7754cdba81dc5c77b087682">
     <bounds
-        x="876"
-        y="36"
+        x="864"
+        y="12"
         width="121"
         height="853"/>
     <children
@@ -609,5 +609,41 @@
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_id-a87e64be2b0942d380d417a00456a7d0.xml#id-a87e64be2b0942d380d417a00456a7d0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e4d406b6880645598ed60db29368c9e0"
+      textAlignment="1"
+      fillColor="#c9e7b7"
+      content="Existing">
+    <bounds
+        x="40"
+        y="876"
+        width="113"
+        height="33"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9ae206767cbf4419bf9bdcab4902e23f"
+      textAlignment="1"
+      fillColor="#80ff80"
+      content="To be">
+    <bounds
+        x="172"
+        y="876"
+        width="113"
+        height="33"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2f149c39160e492aace34c032776c668"
+      textAlignment="1"
+      fillColor="#ff8080"
+      content="Proposed">
+    <bounds
+        x="304"
+        y="876"
+        width="113"
+        height="33"/>
   </children>
 </archimate:ArchimateDiagramModel>
