@@ -753,20 +753,29 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-52a325dc5b43444f89bfe60ba6ea55c1.xml#id-52a325dc5b43444f89bfe60ba6ea55c1"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0da97aaced564754b7b0a1c15e7c25e0"
+        source="id-2261c0a4f6d845f7aa6aa8f477bcdefd"
+        target="id-fdcaa3325765468198cafa9f5a287e81">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-0bd7d2b2ffc245e18cbd903854e9c11a.xml#id-0bd7d2b2ffc245e18cbd903854e9c11a"/>
+    </sourceConnections>
     <bounds
-        x="780"
+        x="792"
         y="360"
-        width="192"
+        width="180"
         height="456"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3c6d8eb6e5c34554aa5ea4e5a7021c76"
         targetConnections="id-c83af2e6c53744e3add7d6c6ed0d3c68">
       <bounds
-          x="48"
+          x="36"
           y="48"
           width="109"
-          height="180"/>
+          height="109"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_id-75de737ece2144f1875d9e0c8c6661a1.xml#id-75de737ece2144f1875d9e0c8c6661a1"/>
@@ -775,13 +784,26 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e7670e2e3ffd4101b5cf7140b8a045a6">
       <bounds
-          x="48"
-          y="264"
+          x="37"
+          y="168"
           width="108"
-          height="168"/>
+          height="121"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_id-5464505121ed4cb88e036717d1d03484.xml#id-5464505121ed4cb88e036717d1d03484"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-fdcaa3325765468198cafa9f5a287e81"
+        targetConnections="id-0da97aaced564754b7b0a1c15e7c25e0">
+      <bounds
+          x="36"
+          y="300"
+          width="108"
+          height="121"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-cd5fba977b604604894bc1cb02961274.xml#id-cd5fba977b604604894bc1cb02961274"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
