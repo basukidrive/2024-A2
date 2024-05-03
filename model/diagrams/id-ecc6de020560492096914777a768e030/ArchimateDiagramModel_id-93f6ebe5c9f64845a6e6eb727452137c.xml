@@ -72,56 +72,10 @@
       name="Dashboard"
       textAlignment="1">
     <bounds
-        x="1303"
-        y="102"
+        x="1308"
+        y="103"
         width="180"
         height="522"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-24058738ccd1413fa1fcb6c516be8eeb"
-      name="Informasi"
-      textAlignment="1">
-    <bounds
-        x="1152"
-        y="102"
-        width="140"
-        height="525"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-505557dfa8474f05883f5e68420cefec"
-        targetConnections="id-d77a00ba39f94140accaccc21033031e">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-a1d28f4d341447e9b7e7860f3ba2e8d9"
-          source="id-505557dfa8474f05883f5e68420cefec"
-          target="id-871dfe047841404ba3faa7cf7cff192a">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-4f6139b8f09b421f8843b269bf7a4780.xml#id-4f6139b8f09b421f8843b269bf7a4780"/>
-      </sourceConnections>
-      <bounds
-          x="12"
-          y="240"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-e66d4a249d3648f0810cefa3df3ca5e9.xml#id-e66d4a249d3648f0810cefa3df3ca5e9"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-983a7b873ab04fbe8d6738a1641c4161"
-        targetConnections="id-8e8ad98d2c8743adb4c04e5c245f4c3e id-457d87da8d2c4b70b7649cce9d59d318">
-      <bounds
-          x="12"
-          y="144"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-b9f56bbf20834f7ea86880d305e7ac3b.xml#id-b9f56bbf20834f7ea86880d305e7ac3b"/>
-    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -129,8 +83,8 @@
       name="Data Mart"
       textAlignment="1">
     <bounds
-        x="996"
-        y="102"
+        x="1003"
+        y="101"
         width="144"
         height="525"/>
     <children
@@ -153,10 +107,56 @@
       name="Table Data (DWH)"
       textAlignment="1">
     <bounds
-        x="816"
-        y="99"
+        x="804"
+        y="102"
         width="168"
         height="528"/>
+    <children
+        xsi:type="archimate:DiagramModelGroup"
+        id="id-24058738ccd1413fa1fcb6c516be8eeb"
+        name="Informasi"
+        textAlignment="1">
+      <bounds
+          x="96"
+          y="48"
+          width="140"
+          height="525"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-505557dfa8474f05883f5e68420cefec"
+          targetConnections="id-d77a00ba39f94140accaccc21033031e">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="id-a1d28f4d341447e9b7e7860f3ba2e8d9"
+            source="id-505557dfa8474f05883f5e68420cefec"
+            target="id-871dfe047841404ba3faa7cf7cff192a">
+          <archimateRelationship
+              xsi:type="archimate:AssociationRelationship"
+              href="AssociationRelationship_id-4f6139b8f09b421f8843b269bf7a4780.xml#id-4f6139b8f09b421f8843b269bf7a4780"/>
+        </sourceConnections>
+        <bounds
+            x="12"
+            y="240"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessObject"
+            href="BusinessObject_id-e66d4a249d3648f0810cefa3df3ca5e9.xml#id-e66d4a249d3648f0810cefa3df3ca5e9"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-983a7b873ab04fbe8d6738a1641c4161"
+          targetConnections="id-8e8ad98d2c8743adb4c04e5c245f4c3e id-457d87da8d2c4b70b7649cce9d59d318">
+        <bounds
+            x="12"
+            y="144"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessObject"
+            href="BusinessObject_id-b9f56bbf20834f7ea86880d305e7ac3b.xml#id-b9f56bbf20834f7ea86880d305e7ac3b"/>
+      </children>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
