@@ -679,9 +679,9 @@
         id="id-5c14ae7a59c442059f9d33b1ce27d90d"
         targetConnections="id-11c3665e1e8643d6999139aef5a0cceb">
       <bounds
-          x="30"
+          x="24"
           y="456"
-          width="241"
+          width="247"
           height="107"/>
       <archimateElement
           xsi:type="archimate:Plateau"
